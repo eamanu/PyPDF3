@@ -12,6 +12,11 @@ And much more!
 
 PyPDF3 is a continuation of the [PyPDF2 project](https://github.com/mstamy2/PyPDF2).
 
+## Installation
+
+You could install PyPDF3 from PyPi running the next command:
+
+    $ pip install -U PyPDF3
 
 ## Examples
 
